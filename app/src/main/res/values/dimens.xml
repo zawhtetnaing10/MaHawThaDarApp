@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+	<dimen name="featured_section_height">120dp</dimen>
+	<dimen name="featured_item_width">220dp</dimen>
+	<dimen name="popular_width">100dp</dimen>
+	<dimen name="popular_height">120dp</dimen>
+	<dimen name="new_books_section_height">200dp</dimen>
+	<dimen name="popular_books_description_section_height">100dp</dimen>
+</resources>
